@@ -8,6 +8,8 @@ Package Includes:
 + Enemy activation based on proximity.
 + Enemy detection.
 + NPC/Enemy detection and tracking.
++ Player Attack (simple/no effects).
++ Enemy Respawn after a set time.
 
 Additional Features:
 + Simple Dialog System capable of displaying an image and text.

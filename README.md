@@ -1,5 +1,5 @@
-# Simplistic-NPC-AI
-A Simple NPC AI for Unity 5.3+.  The package includes all artwork and scripts necessary to accomplish everything seen in the video below.
+# Simplistic-RPG-AI
+A Simple RPG AI for Unity 5.3+.  The package includes all artwork and scripts necessary to accomplish everything seen in the video below.
 
 Package Includes:
 + Random NPC Ai Movement.
